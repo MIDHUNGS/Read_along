@@ -1,0 +1,25 @@
+<p>
+<span data-dur="0.419457" data-begin="0.030543">Jen</span>
+<span data-dur="0.48" data-begin="0.48">also</span>
+<span data-dur="0.48" data-begin="0.96">makes</span>
+<span data-dur="0.7800000000000002" data-begin="1.44">cookies</span>
+</p>
+<p>
+<span data-dur="0.2999999999999998" data-begin="3.6">We</span>
+<span data-dur="0.3300000000000005" data-begin="3.9">get</span>
+<span data-dur="0.05999999999999961" data-begin="4.23">a</span>
+<span data-dur="0.8700000000000001" data-begin="4.29">box</span>
+</p>
+<p>
+<span data-dur="0.33000000000000007" data-begin="6.51">We</span>
+<span data-dur="0.2999999999999998" data-begin="6.84">pick</span>
+<span data-dur="0.20999999999999996" data-begin="7.14">our</span>
+<span data-dur="0.7503710000000003" data-begin="7.379629">cookies</span>
+</p>
+<p>
+<span data-dur="0.33000000000000007" data-begin="9.48">We</span>
+<span data-dur="0.2699999999999996" data-begin="9.81">will</span>
+<span data-dur="0.33000000000000007" data-begin="10.08">take</span>
+<span data-dur="0.2400000000000002" data-begin="10.41">them</span>
+<span data-dur="0.5099999999999998" data-begin="10.65">home</span>
+</p>

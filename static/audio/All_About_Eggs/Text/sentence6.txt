@@ -1,0 +1,7 @@
+<p>
+<span data-dur="0.24" data-begin="0.0">The</span>
+<span data-dur="0.32999999999999996" data-begin="0.24">eggs</span>
+<span data-dur="0.21000000000000008" data-begin="0.57">go</span>
+<span data-dur="0.30000000000000004" data-begin="0.78">into</span>
+<span data-dur="0.96" data-begin="1.08">cartons</span>
+</p>

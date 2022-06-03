@@ -1,0 +1,6 @@
+<p>
+<span data-dur="0.48" data-begin="0.0">There</span>
+<span data-dur="0.20943699999999998" data-begin="0.48">are</span>
+<span data-dur="0.44999999999999996" data-begin="0.69">small</span>
+<span data-dur="0.5700000000000001" data-begin="1.14">fish</span>
+</p>

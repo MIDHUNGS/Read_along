@@ -1,0 +1,29 @@
+<p>
+<span data-dur="0.69" data-begin="0.0">Welcome</span>
+<span data-dur="0.15000000000000002" data-begin="0.69">to</span>
+<span data-dur="0.2400000000000001" data-begin="0.84">my</span>
+<span data-dur="0.8099999999999998" data-begin="1.08">school</span>
+</p>
+<p>
+<span data-dur="0.3899999999999997" data-begin="3.24">This</span>
+<span data-dur="0.20999999999999996" data-begin="3.63">is</span>
+<span data-dur="0.15000000000000036" data-begin="3.84">the</span>
+<span data-dur="1.0199999999999996" data-begin="3.99">playground</span>
+</p>
+<p>
+<span data-dur="0.2400000000000002" data-begin="6.33">It</span>
+<span data-dur="0.20977900000000016" data-begin="6.57">is</span>
+<span data-dur="0.4500000000000002" data-begin="6.78">big</span>
+</p>
+<p>
+<span data-dur="0.4499999999999993" data-begin="8.55">There</span>
+<span data-dur="0.20999800000000057" data-begin="9.0">are</span>
+<span data-dur="0.8099799999999995" data-begin="9.21002">slides</span>
+</p>
+<p>
+<span data-dur="0.41999999999999993" data-begin="11.37">There</span>
+<span data-dur="0.21000000000000085" data-begin="11.79">are</span>
+<span data-dur="0.4800000000000004" data-begin="12.0">things</span>
+<span data-dur="0.17999999999999972" data-begin="12.48">to</span>
+<span data-dur="0.7200000000000006" data-begin="12.66">climb</span>
+</p>

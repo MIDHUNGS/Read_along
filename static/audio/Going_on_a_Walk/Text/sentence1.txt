@@ -1,0 +1,12 @@
+<p>
+<span data-dur="0.26586400000000004" data-begin="0.034145">I</span>
+<span data-dur="0.17999099999999996" data-begin="0.300009">am</span>
+<span data-dur="0.36" data-begin="0.48">going</span>
+<span data-dur="0.18000000000000005" data-begin="0.84">on</span>
+<span data-dur="0.09000000000000008" data-begin="1.02">a</span>
+<span data-dur="0.5998869999999998" data-begin="1.11">walk.</span>
+<span data-dur="0.4200000000000004" data-begin="2.07">What</span>
+<span data-dur="0.20999999999999996" data-begin="2.49">will</span>
+<span data-dur="0.17999999999999972" data-begin="2.7">i</span>
+<span data-dur="0.6000000000000001" data-begin="2.88">see?</span>
+</p>

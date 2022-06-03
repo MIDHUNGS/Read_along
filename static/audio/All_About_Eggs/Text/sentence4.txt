@@ -1,0 +1,6 @@
+<p>
+<span data-dur="0.24" data-begin="0.0">The</span>
+<span data-dur="0.36" data-begin="0.24">eggs</span>
+<span data-dur="0.18000000000000005" data-begin="0.6">are</span>
+<span data-dur="0.715858" data-begin="0.784142">cleaned</span>
+</p>

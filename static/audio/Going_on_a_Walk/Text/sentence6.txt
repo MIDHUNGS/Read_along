@@ -1,0 +1,8 @@
+<p>
+<span data-dur="0.1779" data-begin="0.061935">I</span>
+<span data-dur="0.36016499999999996" data-begin="0.239835">see</span>
+<span data-dur="0.63" data-begin="0.6">Dad.</span>
+<span data-dur="0.3599999999999999" data-begin="1.56">He</span>
+<span data-dur="0.1499999999999999" data-begin="1.92">is</span>
+<span data-dur="0.81" data-begin="2.07">smiling.</span>
+</p>

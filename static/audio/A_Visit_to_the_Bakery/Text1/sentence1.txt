@@ -1,0 +1,12 @@
+<p>
+<span data-dur="0.23586400000000002" data-begin="0.034136">I</span>
+<span data-dur="0.32958299999999996" data-begin="0.270417">go</span>
+<span data-dur="0.18000000000000005" data-begin="0.6">to</span>
+<span data-dur="0.15000000000000002" data-begin="0.78">the</span>
+<span data-dur="0.84" data-begin="0.93">bakery</span>
+</p>
+<p>
+<span data-dur="0.48" data-begin="3.12">Mom</span>
+<span data-dur="0.44999999999999973" data-begin="3.6">goes</span>
+<span data-dur="0.5099999999999998" data-begin="4.05">too</span>
+</p>

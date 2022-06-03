@@ -1,0 +1,8 @@
+<p>
+<span data-dur="0.17663199999999998" data-begin="0.062451">I</span>
+<span data-dur="0.30022200000000004" data-begin="0.239778">love</span>
+<span data-dur="0.419802" data-begin="0.540198">going</span>
+<span data-dur="0.24" data-begin="0.96">on</span>
+<span data-dur="0.06000000000000005" data-begin="1.2">a</span>
+<span data-dur="0.6599999999999999" data-begin="1.26">walk</span>
+</p>

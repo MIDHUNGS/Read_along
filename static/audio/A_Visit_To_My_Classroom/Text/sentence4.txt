@@ -1,0 +1,10 @@
+<p>
+<span data-dur="0.269968" data-begin="0.0">We</span>
+<span data-dur="0.570032" data-begin="0.269968">study</span>
+<span data-dur="0.57" data-begin="0.84">math</span>
+</p>
+<p>
+<span data-dur="0.27" data-begin="2.76">I</span>
+<span data-dur="0.4200000000000004" data-begin="3.03">like</span>
+<span data-dur="0.8399999999999999" data-begin="3.45">numbers</span>
+</p>

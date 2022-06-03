@@ -1,0 +1,19 @@
+<p>
+<span data-dur="0.152" data-begin="0.006">The</span>
+<span data-dur="0.574" data-begin="0.158">bakery</span>
+<span data-dur="0.22399999999999998" data-begin="0.732">is</span>
+<span data-dur="0.659" data-begin="0.956">fun</span>
+</p><p>
+<span data-dur="0.2240000000000002" data-begin="3.002">We</span>
+<span data-dur="0.2959999999999998" data-begin="3.226">see</span>
+<span data-dur="0.3470000000000004" data-begin="3.522">many</span>
+<span data-dur="0.7730000000000001" data-begin="3.869">people</span>
+</p><p>
+<span data-dur="0.4500000000000002" data-begin="6.029">Mom</span>
+<span data-dur="0.19899999999999984" data-begin="6.479">and</span>
+<span data-dur="0.2140000000000004" data-begin="6.678">I</span>
+<span data-dur="0.36599999999999966" data-begin="6.892">see</span>
+<span data-dur="0.17799999999999994" data-begin="7.258">our</span>
+<span data-dur="0.8160000000000007" data-begin="7.436">friends</span>
+</p><p>
+</p>

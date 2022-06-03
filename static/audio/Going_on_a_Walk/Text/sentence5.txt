@@ -1,0 +1,8 @@
+<p>
+<span data-dur="0.20403600000000002" data-begin="0.065964">I</span>
+<span data-dur="0.32989599999999997" data-begin="0.270104">see</span>
+<span data-dur="0.857355" data-begin="0.612645">stars.</span>
+<span data-dur="0.325998" data-begin="1.8">They</span>
+<span data-dur="0.17657800000000012" data-begin="2.13">are</span>
+<span data-dur="0.809898" data-begin="2.310102">shining.</span>
+</p>

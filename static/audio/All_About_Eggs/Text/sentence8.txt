@@ -1,0 +1,5 @@
+<p>
+<span data-dur="0.328078" data-begin="0.031922">Eggs</span>
+<span data-dur="0.11971900000000002" data-begin="0.36">are</span>
+<span data-dur="0.69" data-begin="0.48">great</span>
+</p>

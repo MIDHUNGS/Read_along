@@ -1,0 +1,20 @@
+<p>
+<span data-dur="0.20770000000000002" data-begin="0.0623">I</span>
+<span data-dur="0.32999999999999996" data-begin="0.27">see</span>
+<span data-dur="0.5100000000000001" data-begin="0.6">Mr.</span>
+<span data-dur="0.4495819999999999" data-begin="1.11">Find</span>
+<span data-dur="0.32573399999999997" data-begin="1.654264">and</span>
+<span data-dur="0.45000200000000024" data-begin="1.979998">Mrs</span>
+<span data-dur="0.5999999999999996" data-begin="2.43">Block</span>
+</p>
+<p>
+<span data-dur="0.2400000000000002" data-begin="4.41">They</span>
+<span data-dur="0.41999999999999993" data-begin="4.65">clean</span>
+<span data-dur="0.23999999999999932" data-begin="5.07">our</span>
+<span data-dur="0.7198180000000001" data-begin="5.310182">school</span>
+</p>
+<p>
+<span data-dur="0.2699999999999996" data-begin="7.41">I</span>
+<span data-dur="0.27000000000000046" data-begin="7.68">say</span>
+<span data-dur="0.6299999999999999" data-begin="7.95">hi</span>
+</p>

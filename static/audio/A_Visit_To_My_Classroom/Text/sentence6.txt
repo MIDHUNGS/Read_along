@@ -1,0 +1,6 @@
+<p>
+<span data-dur="0.177162" data-begin="0.06192">I</span>
+<span data-dur="0.30040500000000003" data-begin="0.239595">love</span>
+<span data-dur="0.29999999999999993" data-begin="0.54">my</span>
+<span data-dur="0.7200000000000001" data-begin="0.84">school</span>
+</p>

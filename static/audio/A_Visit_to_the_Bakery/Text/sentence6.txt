@@ -1,0 +1,12 @@
+<p>
+<span data-dur="0.441" data-begin="0.006">Jen</span>
+<span data-dur="0.37399999999999994" data-begin="0.447">loves</span>
+<span data-dur="0.756" data-begin="0.821">baking</span>
+</p><p>
+<span data-dur="0.15200000000000014" data-begin="2.963">The</span>
+<span data-dur="0.6809999999999996" data-begin="3.115">bakery</span>
+<span data-dur="0.18400000000000016" data-begin="3.796">is</span>
+<span data-dur="0.27100000000000035" data-begin="3.98">so</span>
+<span data-dur="0.7109999999999994" data-begin="4.251">fun</span>
+</p><p>
+</p>

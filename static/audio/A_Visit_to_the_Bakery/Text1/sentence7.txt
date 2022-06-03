@@ -1,0 +1,8 @@
+<p>
+<span data-dur="0.175366" data-begin="0.064634">I</span>
+<span data-dur="0.51" data-begin="0.24">plan</span>
+<span data-dur="0.179593" data-begin="0.750407">to</span>
+<span data-dur="0.39" data-begin="0.93">visit</span>
+<span data-dur="0.41999999999999993" data-begin="1.32">again</span>
+<span data-dur="0.5999999999999999" data-begin="1.74">soon</span>
+</p>

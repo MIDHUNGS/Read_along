@@ -1,0 +1,19 @@
+<p>
+<span data-dur="0.3" data-begin="0.0">We</span>
+<span data-dur="0.36000000000000004" data-begin="0.3">play</span>
+<span data-dur="0.15000000000000002" data-begin="0.66">in</span>
+<span data-dur="0.12" data-begin="0.81">the</span>
+<span data-dur="0.84" data-begin="0.93">grass</span>
+</p>
+<p>
+<span data-dur="0.2999999999999998" data-begin="3.12">We</span>
+<span data-dur="0.33000000000000007" data-begin="3.42">play</span>
+<span data-dur="0.8393739999999998" data-begin="3.750626">soccer</span>
+</p>
+<p>
+<span data-dur="0.33000000000000007" data-begin="5.91">We</span>
+<span data-dur="0.35999999999999943" data-begin="6.24">play</span>
+<span data-dur="0.1200000000000001" data-begin="6.6">in</span>
+<span data-dur="0.1200000000000001" data-begin="6.72">the</span>
+<span data-dur="0.6900000000000004" data-begin="6.84">sand</span>
+</p>

@@ -1,0 +1,8 @@
+<p>
+<span data-dur="0.23644900000000002" data-begin="0.033319">I</span>
+<span data-dur="0.330149" data-begin="0.269768">see</span>
+<span data-dur="0.7800829999999999" data-begin="0.599917">birds.</span>
+<span data-dur="0.3599999999999999" data-begin="1.71">They</span>
+<span data-dur="0.12007500000000038" data-begin="2.07">are</span>
+<span data-dur="0.8099249999999998" data-begin="2.190075">singing.</span>
+</p>

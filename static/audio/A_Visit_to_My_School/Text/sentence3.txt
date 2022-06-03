@@ -1,0 +1,29 @@
+<p>
+<span data-dur="0.20310799999999998" data-begin="0.066696">I</span>
+<span data-dur="0.24019600000000002" data-begin="0.269804">go</span>
+<span data-dur="0.17999999999999994" data-begin="0.51">to</span>
+<span data-dur="0.2400000000000001" data-begin="0.69">my</span>
+<span data-dur="0.93" data-begin="0.93">classroom</span>
+</p>
+<p>
+<span data-dur="0.2699999999999996" data-begin="3.24">I</span>
+<span data-dur="0.30000000000000027" data-begin="3.51">see</span>
+<span data-dur="0.5397829999999995" data-begin="3.810217">Mrs.</span>
+<span data-dur="0.6000000000000005" data-begin="4.35">Berg</span>
+</p>
+<p>
+<span data-dur="0.4800000000000004" data-begin="6.27">She</span>
+<span data-dur="0.17999999999999972" data-begin="6.75">is</span>
+<span data-dur="0.3000000000000007" data-begin="6.93">my</span>
+<span data-dur="0.75" data-begin="7.23">teacher</span>
+</p>
+<p>
+<span data-dur="0.41999999999999993" data-begin="9.3">She</span>
+<span data-dur="0.44998199999999855" data-begin="9.72">helps</span>
+<span data-dur="0.30001800000000145" data-begin="10.169982">me</span>
+<span data-dur="0.629999999999999" data-begin="10.47">learn</span>
+</p>
+<p>
+<span data-dur="0.45000000000000107" data-begin="12.45">she's</span>
+<span data-dur="0.8399999999999999" data-begin="12.9">smart</span>
+</p>

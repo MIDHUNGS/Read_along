@@ -1,0 +1,12 @@
+<p>
+<span data-dur="0.539992" data-begin="0.0">Fish</span>
+<span data-dur="0.17723" data-begin="0.541441">are</span>
+<span data-dur="0.41813299999999987" data-begin="0.721867">many</span>
+<span data-dur="0.7200000000000002" data-begin="1.14">colours</span>
+</p>
+<p>
+<span data-dur="0.5099929999999997" data-begin="3.24">Fish</span>
+<span data-dur="0.17817599999999967" data-begin="3.751034">are</span>
+<span data-dur="0.3892310000000001" data-begin="3.930769">many</span>
+<span data-dur="0.96" data-begin="4.32">sizes</span>
+</p>

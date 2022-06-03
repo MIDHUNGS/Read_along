@@ -1,0 +1,27 @@
+<p>
+<span data-dur="0.42" data-begin="0.06">Jen</span>
+<span data-dur="0.39" data-begin="0.48">loves</span>
+<span data-dur="0.5099999999999999" data-begin="0.87">making</span>
+<span data-dur="0.8999999999999999" data-begin="1.38">cakes</span>
+</p>
+<p>
+<span data-dur="0.4500000000000002" data-begin="3.63">She</span>
+<span data-dur="0.17999999999999972" data-begin="4.08">is</span>
+<span data-dur="0.5397730000000003" data-begin="4.26">making</span>
+<span data-dur="0.0600000000000005" data-begin="4.8">a</span>
+<span data-dur="0.54" data-begin="4.86">purple</span>
+<span data-dur="0.6599999999999993" data-begin="5.4">cake</span>
+</p>
+<p>
+<span data-dur="0.20999999999999996" data-begin="7.38">It</span>
+<span data-dur="0.3600000000000003" data-begin="7.59">has</span>
+<span data-dur="0.3600000000000003" data-begin="7.95">white</span>
+<span data-dur="1.0199999999999996" data-begin="8.31">flowers</span>
+</p>
+<p>
+<span data-dur="0.2698210000000003" data-begin="10.65">It</span>
+<span data-dur="0.14314099999999996" data-begin="10.92">is</span>
+<span data-dur="0.06685900000000089" data-begin="11.063141">a</span>
+<span data-dur="0.6598069999999989" data-begin="11.130193">birthday</span>
+<span data-dur="0.7200000000000006" data-begin="11.79">cake</span>
+</p>

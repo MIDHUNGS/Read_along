@@ -1,0 +1,26 @@
+<p>
+<span data-dur="0.208687" data-begin="0.061313">I</span>
+<span data-dur="0.32999999999999996" data-begin="0.27">see</span>
+<span data-dur="0.5098480000000001" data-begin="0.600152">Mrs.</span>
+<span data-dur="0.41999999999999993" data-begin="1.11">Gooding</span>
+<span data-dur="0.24" data-begin="1.53">at</span>
+<span data-dur="0.75" data-begin="1.77">school</span>
+</p>
+<p>
+<span data-dur="0.4500000000000002" data-begin="3.87">She</span>
+<span data-dur="0.17999999999999972" data-begin="4.32">is</span>
+<span data-dur="0.15000000000000036" data-begin="4.5">the</span>
+<span data-dur="0.9299999999999997" data-begin="4.65">principal</span>
+</p>
+<p>
+<span data-dur="0.39000000000000057" data-begin="6.93">She</span>
+<span data-dur="0.5099999999999998" data-begin="7.32">meets</span>
+<span data-dur="0.2400000000000002" data-begin="7.83">with</span>
+<span data-dur="0.8699999999999992" data-begin="8.07">parents</span>
+</p>
+<p>
+<span data-dur="0.39000000000000057" data-begin="10.26">She</span>
+<span data-dur="0.5099999999999998" data-begin="10.65">meets</span>
+<span data-dur="0.20999999999999908" data-begin="11.16">with</span>
+<span data-dur="0.9600000000000009" data-begin="11.37">students</span>
+</p>

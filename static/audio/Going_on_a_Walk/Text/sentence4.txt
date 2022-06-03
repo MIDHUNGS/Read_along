@@ -1,0 +1,8 @@
+<p>
+<span data-dur="0.23684600000000003" data-begin="0.032967">I</span>
+<span data-dur="0.26979499999999995" data-begin="0.269813">see</span>
+<span data-dur="0.714084" data-begin="0.545916">leaves.</span>
+<span data-dur="0.32994199999999996" data-begin="1.62">They</span>
+<span data-dur="0.18005799999999983" data-begin="1.949942">are</span>
+<span data-dur="0.8700000000000001" data-begin="2.13">changing.</span>
+</p>

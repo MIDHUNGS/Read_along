@@ -1,0 +1,19 @@
+<p>
+<span data-dur="0.203241" data-begin="0.066615">I</span>
+<span data-dur="0.24014400000000002" data-begin="0.269856">go</span>
+<span data-dur="0.17999999999999994" data-begin="0.51">to</span>
+<span data-dur="0.72" data-begin="0.69">lunch</span>
+</p>
+<p>
+<span data-dur="0.5699999999999998" data-begin="2.79">Mrs.</span>
+<span data-dur="0.5100000000000002" data-begin="3.36">Jones</span>
+<span data-dur="0.47999999999999954" data-begin="3.87">serves</span>
+<span data-dur="0.23941999999999997" data-begin="4.35">us</span>
+<span data-dur="0.6305800000000001" data-begin="4.58942">lunch</span>
+</p>
+<p>
+<span data-dur="0.3600000000000003" data-begin="6.6">She</span>
+<span data-dur="0.41999999999999993" data-begin="6.96">knows</span>
+<span data-dur="0.3899999999999997" data-begin="7.38">every</span>
+<span data-dur="0.8100000000000005" data-begin="7.77">student</span>
+</p>

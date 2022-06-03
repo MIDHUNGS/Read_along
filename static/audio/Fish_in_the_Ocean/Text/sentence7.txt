@@ -1,0 +1,7 @@
+<p>
+<span data-dur="0.358657" data-begin="0.0">There</span>
+<span data-dur="0.23835099999999998" data-begin="0.358657">are</span>
+<span data-dur="0.4499890000000001" data-begin="0.600011">fish</span>
+<span data-dur="0.20999999999999996" data-begin="1.05">with</span>
+<span data-dur="0.9894499999999999" data-begin="1.26055">spots</span>
+</p>

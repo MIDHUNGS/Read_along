@@ -1,0 +1,6 @@
+<p>
+<span data-dur="0.299786" data-begin="0.030214">All</span>
+<span data-dur="0.38999999999999996" data-begin="0.33">fish</span>
+<span data-dur="0.30000000000000004" data-begin="0.72">have</span>
+<span data-dur="0.8400000000000001" data-begin="1.02">bones</span>
+</p>

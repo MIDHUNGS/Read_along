@@ -1,0 +1,8 @@
+<p>
+<span data-dur="0.51" data-begin="0.0">Many</span>
+<span data-dur="0.48" data-begin="0.51">people</span>
+<span data-dur="0.33000000000000007" data-begin="0.99">make</span>
+<span data-dur="0.24" data-begin="1.32">my</span>
+<span data-dur="0.47863200000000017" data-begin="1.56">school</span>
+<span data-dur="0.6600000000000001" data-begin="2.04">great</span>
+</p>

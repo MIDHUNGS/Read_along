@@ -1,0 +1,20 @@
+<p>
+<span data-dur="0.203285" data-begin="0.06655">I</span>
+<span data-dur="0.24016500000000002" data-begin="0.269835">go</span>
+<span data-dur="0.179886" data-begin="0.510114">to</span>
+<span data-dur="0.1200000000000001" data-begin="0.69">the</span>
+<span data-dur="0.8999999999999999" data-begin="0.81">library</span>
+</p>
+<p>
+<span data-dur="0.54" data-begin="3.06">Mr.</span>
+<span data-dur="0.4199999999999995" data-begin="3.6">Dennis</span>
+<span data-dur="0.4800000000000004" data-begin="4.02">reads</span>
+<span data-dur="0.2400000000000002" data-begin="4.5">to</span>
+<span data-dur="0.5699999999999994" data-begin="4.74">us</span>
+</p>
+<p>
+<span data-dur="0.33000000000000007" data-begin="6.66">We</span>
+<span data-dur="0.2999999999999998" data-begin="6.99">pick</span>
+<span data-dur="0.3600000000000003" data-begin="7.29">out</span>
+<span data-dur="0.7199999999999989" data-begin="7.65">books</span>
+</p>

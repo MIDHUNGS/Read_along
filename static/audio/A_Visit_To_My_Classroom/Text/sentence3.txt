@@ -1,0 +1,25 @@
+<p>
+<span data-dur="0.42" data-begin="0.0">This</span>
+<span data-dur="0.21000000000000002" data-begin="0.42">is</span>
+<span data-dur="0.27" data-begin="0.63">my</span>
+<span data-dur="0.9600000000000001" data-begin="0.9">classroom</span>
+</p>
+<p>
+<span data-dur="0.33000000000000007" data-begin="3.21">We</span>
+<span data-dur="0.32801500000000017" data-begin="3.54">sit</span>
+<span data-dur="0.15353800000000017" data-begin="3.87">on</span>
+<span data-dur="0.11744099999999946" data-begin="4.023538">the</span>
+<span data-dur="0.4976419999999999" data-begin="4.152358">rug</span>
+</p>
+<p>
+<span data-dur="0.2699999999999996" data-begin="6.0">We</span>
+<span data-dur="0.5700000000000003" data-begin="6.27">study</span>
+<span data-dur="0.3600000000000003" data-begin="6.84">many</span>
+<span data-dur="0.75" data-begin="7.2">things</span>
+</p>
+<p>
+<span data-dur="0.29999999999999893" data-begin="9.3">We</span>
+<span data-dur="0.4419810000000002" data-begin="9.6">learned</span>
+<span data-dur="0.1280190000000001" data-begin="10.041981">to</span>
+<span data-dur="0.4800000000000004" data-begin="10.17">read</span>
+</p>

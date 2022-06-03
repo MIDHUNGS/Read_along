@@ -1,0 +1,6 @@
+<p>
+<span data-dur="0.48" data-begin="0.0">There</span>
+<span data-dur="0.23966900000000002" data-begin="0.48">are</span>
+<span data-dur="0.5997070000000001" data-begin="0.720293">fast</span>
+<span data-dur="0.539663" data-begin="1.320337">fish</span>
+</p>

@@ -1,0 +1,8 @@
+<p>
+<span data-dur="0.206181" data-begin="0.063819">I</span>
+<span data-dur="0.299791" data-begin="0.270209">see</span>
+<span data-dur="0.839702" data-begin="0.570298">clouds.</span>
+<span data-dur="0.41999999999999993" data-begin="1.77">They</span>
+<span data-dur="0.27" data-begin="2.19">are</span>
+<span data-dur="0.7200000000000002" data-begin="2.46">moving.</span>
+</p>
