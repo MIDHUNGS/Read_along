@@ -1,0 +1,7 @@
+<p>
+<span data-dur="0.24" data-begin="0.0">The</span>
+<span data-dur="0.36" data-begin="0.24">eggs</span>
+<span data-dur="0.39" data-begin="0.6">leave</span>
+<span data-dur="0.1499999999999999" data-begin="0.99">the</span>
+<span data-dur="0.6000000000000001" data-begin="1.14">farm</span>
+</p>

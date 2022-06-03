@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>EPUB</title>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.5/jszip.min.js"></script>
+  <script src="static/js/epub.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="static/css/style.css">
+
+  <style type="text/css">
+    body {
+      display: flex;
+      -webkit-align-items: center;
+      -webkit-justify-content: center;
+    }
+
+    #viewer {
+      width: 40%;
+      height: 100%;
+      box-shadow: 0 0 4px #ccc;
+      padding: 10px 10px 0px 10px;
+      margin: 5px auto;
+      background: white;
+    }
+
+    @media only screen and (min-device-width : 320px) and (max-device-width : 667px) {
+      #viewer {
+        height: 96.5%;
+      }
+
+      .arrow {
+        position: inherit;
+        display: none;
+      }
+    }
+  </style>
+</head>
+<head>
+  <meta charset="utf-8">
+  <title>HTML5 Audio Read-Along Demo</title>
+  <meta name="viewport" content="width=device-width">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <link rel="stylesheet" href="static/css/style2.css">
+</head>
+<body>
+  <div class="container-fluid" style="height: 100vh; width: 100%;">
+    <div class="row">
+      <div class="col">
+        <div id="viewer"></div>
+        <div id="prev" class="arrow">‹</div>
+        <div id="next" class="arrow">›</div>
+      </div>
+
+    </div>
+
+    
+      
+
+      <p class="loading">
+          <em><img src="/static/img/loader.gif" alt="Initializing audio"> Loading audio…</em>
+      </p>
+    
+      <p class="passage-audio" >
+          <audio id="passage-audio" class="passage" controls>
+              <em class="error"><strong>Error:</strong> Your browser doesn't appear to support HTML5 Audio.</em>
+          </audio>
+      </p>
+     
+    
+      <p class="playback-rate"  title="Note that increaseing the reading rate will decrease accuracy of word highlights">
+          <label for="playback-rate">Reading rate:</label>
+          <input id="playback-rate" type="range" min="0.5" max="2.0" value="1.0" step="0.1" disabled onchange='this.nextElementSibling.textContent = String(Math.round(this.valueAsNumber * 10) / 10) + "\u00D7";'>
+          <output>1&times;</output>
+      </p>
+     
+      <p class="autofocus-current-word" >
+          <input type="checkbox" id="autofocus-current-word" checked>
+          <label for="autofocus-current-word">Auto-focus/auto-scroll</label>
+      </p>
+    
+      
+    
+      <div id="passage-text" class="passage">
+
+          
+         
+          </div>
+    
+     
+    
+  </div>
+  <script src="https://unpkg.com/uuid@latest/dist/umd/uuidv4.min.js"></script>
+  <script src="https://www.webrtc-experiment.com/hark.js"></script>
+
+
+  <script >
+    URL = window.URL || window.webkitURL;
+    const books = {
+        "All About Eggs": "https://s3.ap-south-1.amazonaws.com/cm-fluency/epub-files/All_About_Eggs.epub",
+        "Fish in the Ocean": "https://s3.ap-south-1.amazonaws.com/cm-fluency/epub-files/Fish_in_the_Ocean.epub",
+        "Going on a Walk": "https://s3.ap-south-1.amazonaws.com/cm-fluency/epub-files/Going_on_a_Walk.epub",
+        "A Visit To My Classroom": "https://s3.ap-south-1.amazonaws.com/cm-fluency/epub-files/A_Visit_To_My_Classroom.epub",
+        "A Visit to My School": "https://s3.ap-south-1.amazonaws.com/cm-fluency/epub-files/A_Visit_to_My_School.epub",
+        "A Visit to the Bakery": "https://s3.ap-south-1.amazonaws.com/cm-fluency/epub-files/A_Visit_to_the_Bakery.epub"
+    };
+    var urlParams = new URLSearchParams(window.location.search);
+    var bookTitle = urlParams.get('book');
+    
+
+    var book = ePub(books[bookTitle]);
+    // var book = ePub("https://s3.amazonaws.com/moby-dick/moby-dick.epub");
+    var rendition = book.renderTo("viewer", {
+        width: "100%",
+        height: 600
+    });
+    var displayed = rendition.display();
+
+    var keyListener = function (e) {
+        // Left Key
+        if ((e.keyCode || e.which) == 37) {
+          rendition.prev();
+        }
+
+        // Right Key
+        if ((e.keyCode || e.which) == 39) {
+            rendition.next();
+        }
+    };
+    rendition.on("keyup", keyListener);
+    document.addEventListener("keyup", keyListener, false);
+
+    var next = document.getElementById("next");
+    
+    next.addEventListener("click", function () {
+        
+        rendition.next();
+        //  getShownText()
+    }, false);
+    
+
+    var prev = document.getElementById("prev");
+    prev.addEventListener("click", function () {
+        // console.log(document.getElementsByClassName("epub-view")[0])
+        // console.log(document.getElementsByClassName("epub-view"))
+        
+        rendition.prev();
+        // getShownText()
+        
+    }, false);
+
+    
+
+        
+    
+
+  </script>
+
+
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.7.1.min.js"></script>
+<script src="static/js/innerHTML.js"></script>
+<script src="static/js/read-along.js"></script>
+<script src="static/js/main.js"></script>
+
+</body>
+
+
+
+
+</html>
+
+
+

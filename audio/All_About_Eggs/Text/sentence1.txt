@@ -1,0 +1,6 @@
+<p>
+<span data-dur="0.42" data-begin="0.0">This</span>
+<span data-dur="0.165005" data-begin="0.42">is</span>
+<span data-dur="0.12734" data-begin="0.585005">an</span>
+<span data-dur="0.41999999999999993" data-begin="0.81">egg</span>
+</p>

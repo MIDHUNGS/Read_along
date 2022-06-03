@@ -1,0 +1,10 @@
+<p>
+<span data-dur="0.45" data-begin="0.0">These</span>
+<span data-dur="0.18" data-begin="0.45">are</span>
+<span data-dur="0.7200000000000001" data-begin="0.63">hens</span>
+</p>
+<p>
+<span data-dur="0.4500000000000002" data-begin="2.73">Hens</span>
+<span data-dur="0.2999999999999998" data-begin="3.18">lay</span>
+<span data-dur="0.5100000000000002" data-begin="3.48">eggs</span>
+</p>

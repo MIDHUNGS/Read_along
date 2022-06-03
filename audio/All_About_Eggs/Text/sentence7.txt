@@ -1,0 +1,14 @@
+<p>
+<span data-dur="0.24" data-begin="0.0">The</span>
+<span data-dur="0.39" data-begin="0.24">eggs</span>
+<span data-dur="0.24" data-begin="0.63">go</span>
+<span data-dur="0.18000000000000005" data-begin="0.87">to</span>
+<span data-dur="0.24" data-begin="1.05">your</span>
+<span data-dur="0.6299999999999999" data-begin="1.29">home</span>
+</p>
+<p>
+<span data-dur="0.3299999999999996" data-begin="3.24">You</span>
+<span data-dur="0.33000000000000007" data-begin="3.6">eat</span>
+<span data-dur="0.18000000000000016" data-begin="3.93">the</span>
+<span data-dur="0.6000000000000005" data-begin="4.14">eggs</span>
+</p>

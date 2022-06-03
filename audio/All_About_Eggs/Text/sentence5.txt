@@ -1,0 +1,6 @@
+<p>
+<span data-dur="0.24" data-begin="0.0">The</span>
+<span data-dur="0.35997900000000005" data-begin="0.24">eggs</span>
+<span data-dur="0.14963800000000005" data-begin="0.6">are</span>
+<span data-dur="0.6871449999999999" data-begin="0.752855">checked</span>
+</p>
