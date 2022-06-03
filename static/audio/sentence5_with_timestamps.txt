@@ -1,0 +1,7 @@
+<span data-dur="0.209874" data-begin="0.0">the</span>
+<span data-dur="0.6900000000000001" data-begin="0.21">paunchy</span>
+<span data-dur="0.6883650000000001" data-begin="0.901635">forces</span>
+<span data-dur="0.51" data-begin="1.59">became</span>
+<span data-dur="0.1499999999999999" data-begin="2.1">the</span>
+<span data-dur="0.6600000000000001" data-begin="2.25">usable</span>
+<span data-dur="0.8399999999999999" data-begin="2.91">hikes</span>

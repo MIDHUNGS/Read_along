@@ -1,0 +1,1 @@
+<p><span data-dur="0.69" data-begin="0.0">Welcome</span> <span data-dur="0.15000000000000002" data-begin="0.69">to</span> <span data-dur="0.2400000000000001" data-begin="0.84">my</span> <span data-dur="0.8099999999999998" data-begin="1.08">school</span></p>
